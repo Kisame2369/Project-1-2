@@ -244,18 +244,13 @@ header{
 }
 
 .third-section-list-card{
+    text-align: center;
     padding: 32px 0;
 }
 
 .third-section-list-item .third-section-list-title {
-    text-align: center;
     margin-bottom: 8px;
 }
-
-.third-section-list-item .third-section-list-text {
-    text-align: center;
-}
-
 
 .fourth-section-title {
     margin-bottom: 72px;
@@ -276,17 +271,11 @@ header{
     border-bottom: 1px solid #E7E9FC;
     border-left: 1px solid #E7E9FC;
     border-right: 1px solid #E7E9FC;
+    padding: 32px 16px
 }
 
 .fourth-section-list-title{
-    padding-top: 32px;
     margin-bottom: 8px;
-    padding-left: 16px;
-}
-
-.fourth-section-list-text{
-    padding-bottom: 32px;
-    padding-left: 16px;
 }
 
 .page-footer {
