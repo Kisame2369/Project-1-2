@@ -84,8 +84,6 @@ header{
 }
 
 .logo {
-    display: flex;
-    margin-right: 76px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -93,6 +91,12 @@ header{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+}
+
+.logo-header{
+    display: flex;
+    margin-right: 76px;
+    padding: 24px 0;
 }
 
 .logo .logo-part-header {
@@ -111,7 +115,7 @@ header{
 
 .navigation-link {
     display: block;
-    padding: 25.5px 0;
+    padding: 24px 0;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
